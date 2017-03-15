@@ -16,6 +16,6 @@
 	"theme_color": "#b14c3a",
 	"background_color": "#ffffff",
 	"display": "standalone",
-	"start_url": "https://www.elmikewalsh.com/index.html",
+	"start_url": "https://elmikewalsh.github.io/staticsite/index.html",
 	"orientation": "portrait"
 }
